@@ -1,0 +1,7 @@
+﻿  Menus.cpp
+E:\Users\User\source\repos\Music\Music\Menus.cpp(473,9): warning C4101: password: неиспользованная локальная переменная
+  Music.cpp
+  User.cpp
+  Создание кода...
+E:\Users\User\source\repos\Music\Music\Menus.cpp(472,9): warning C4101: login: неиспользованная локальная переменная
+  Music.vcxproj -> E:\Users\User\source\repos\Music\Debug\Music.exe

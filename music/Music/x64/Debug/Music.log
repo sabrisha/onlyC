@@ -1,0 +1,6 @@
+﻿  UserInteraction.cpp
+C:\Users\sabri\Desktop\music\Music\UserInteraction.cpp(96,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sabri\Desktop\music\Music\UserInteraction.cpp(125,44): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\sabri\Desktop\music\Music\UserInteraction.cpp(125,44): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 2
+C:\Users\sabri\Desktop\music\Music\UserInteraction.cpp(138,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Music.vcxproj -> C:\Users\sabri\Desktop\music\x64\Debug\Music.exe
